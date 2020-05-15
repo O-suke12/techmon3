@@ -28,6 +28,7 @@ class LobbyViewController: UIViewController {
              userInfo: nil,
              repeats: true)
          staminaTimer.fire()
+       
      }
      
      override func viewWillAppear(_ animated: Bool) {
